@@ -19,7 +19,7 @@
   "homepage": "https://github.com/derpwanda/db-recipe-book#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "knex": "^0.15.2",
+    "knex": "^2.4.0",
     "sqlite3": "^4.0.4"
   },
   "devDependencies": {
